@@ -1,0 +1,26 @@
+.vegetableCard {
+    font-size: 32px;
+    width: 100%;
+    border: 1px solid black;
+    padding: 20px 20px 75px;
+    border-radius: 20%;
+}
+
+.vegetableCard--empty {
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.vegetableCard__title {
+    display: inline;
+}
+
+.vegetableCard__id {
+    float: right;
+}
+
+.vegetableCard__description {
+    margin-top: 30px;
+}

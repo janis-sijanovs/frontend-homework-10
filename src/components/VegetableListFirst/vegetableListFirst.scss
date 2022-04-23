@@ -1,0 +1,15 @@
+.vegetableListFirst {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    padding: 5px;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+
+.vegetable-box {
+    width: 32%;
+    padding: 5px;
+    border: 1px solid black;
+    display: flex;
+}
